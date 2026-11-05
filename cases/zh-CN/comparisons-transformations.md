@@ -15,12 +15,20 @@
 
 复制下方完整英文提示词，并在单独的工作副本中填写输入项。
 
+> 由用户提供的示意素材。图中的文案、数字、评价和媒体风格呈现均为创意示例，不代表已验证的产品事实或广告活动效果。
+
 ---
 
 <a id="comparisons-transformations-case-7"></a>
 ### Case 7: 我们与其他选择
 
 **画幅比例:** 3:4
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: 我们与其他选择 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png)
 
 **Prompt:**
 
@@ -35,6 +43,12 @@ Use the attached images as brand reference. Create: a side-by-side divided verti
 
 **画幅比例:** 9:16
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: 前后对比（UGC 原生风格） — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference for product color ONLY. This should l
 ### Case 25: 品牌与其他选择的分色对比
 
 **画幅比例:** 1:1
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: 品牌与其他选择的分色对比 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png)
 
 **Prompt:**
 
@@ -61,6 +81,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: 对比网格与表格 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png)
+
 **Prompt:**
 
 ```
@@ -73,6 +99,12 @@ Use the attached images as brand reference. Match the exact product packaging pr
 ### Case 36: 白板前后对比与手持产品
 
 **画幅比例:** 3:4
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: 白板前后对比与手持产品 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png)
 
 **Prompt:**
 

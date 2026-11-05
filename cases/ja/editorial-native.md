@@ -17,12 +17,20 @@
 
 以下の英語プロンプトを全文コピーし、別の作業用コピーで入力欄を埋めてください。
 
+> ユーザーから提供された参考用の作例です。画像内の文言、数値、レビュー、報道風の表現は創作例であり、確認済みの製品情報や広告運用の成果を示すものではありません。
+
 ---
 
 <a id="editorial-native-case-10"></a>
 ### Case 10: プレス・エディトリアル
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png" alt="Case 10: プレス・エディトリアル — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png)
 
 **Prompt:**
 
@@ -37,6 +45,12 @@ Use the attached images as brand reference. Create: a press ad on off-white line
 
 **アスペクト比:** 3:4
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png" alt="Case 20: 記事広告・エディトリアルコンテンツカード — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png)
+
 **Prompt:**
 
 ```
@@ -49,6 +63,12 @@ Use the attached images as brand reference for tone ONLY. Do NOT use polished ad
 ### Case 29: UGC写真と話題の投稿オーバーレイ
 
 **アスペクト比:** 9:16
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png" alt="Case 29: UGC写真と話題の投稿オーバーレイ — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png)
 
 **Prompt:**
 
@@ -63,6 +83,12 @@ Use the attached images as brand reference for product color ONLY. Do NOT use ad
 
 **アスペクト比:** 9:16
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png" alt="Case 32: UGCストーリーのコールアウト・テキスト吹き出し解説 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference for product color and packaging ONLY.
 ### Case 33: プレス・ニュース記事風スクリーンショット
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png" alt="Case 33: プレス・ニュース記事風スクリーンショット — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png)
 
 **Prompt:**
 
@@ -89,6 +121,12 @@ Use the attached images as brand reference. Create: a static ad designed to look
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png" alt="Case 34: iPhoneメモ・アプリ風スクリーンショット — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png)
+
 **Prompt:**
 
 ```
@@ -101,6 +139,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 39: 好奇心を誘いスクロールを止めるフック
 
 **アスペクト比:** 1:1
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png" alt="Case 39: 好奇心を誘いスクロールを止めるフック — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png)
 
 **Prompt:**
 

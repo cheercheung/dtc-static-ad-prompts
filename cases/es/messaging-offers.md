@@ -16,12 +16,20 @@ Composiciones centradas en titulares, ofertas, manifiestos y afirmaciones.
 
 Copia el prompt completo en inglés que aparece abajo. Rellena sus campos en una copia de trabajo independiente.
 
+> Imágenes ilustrativas proporcionadas por el usuario. Los textos, las cifras, las reseñas y los tratamientos de estilo periodístico son recursos creativos de ejemplo, no hechos verificados sobre el producto ni resultados de campañas.
+
 ---
 
 <a id="messaging-offers-case-1"></a>
 ### Case 1: Titular
 
 **Relación de aspecto:** 3:4
+
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: Titular — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png)
 
 **Prompt:**
 
@@ -36,6 +44,12 @@ Use the attached images as brand reference. Match the exact product colors, typo
 
 **Relación de aspecto:** 9:16
 
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: Oferta o promoción — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png)
+
 **Prompt:**
 
 ```
@@ -48,6 +62,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 21: Afirmación contundente o titular de reacción
 
 **Relación de aspecto:** 1:1
+
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: Afirmación contundente o titular de reacción — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png)
 
 **Prompt:**
 
@@ -62,6 +82,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Relación de aspecto:** 1:1
 
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: Manifiesto extenso o anuncio en forma de carta — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference. Match exact brand typography style a
 
 **Relación de aspecto:** 1:1
 
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: Afirmación principal y franja de beneficios con iconos — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png)
+
 **Prompt:**
 
 ```
@@ -87,6 +119,18 @@ Use the attached images as brand reference. Match exact brand colors, packaging,
 ### Case 37: Afirmación principal, iconos y sello de oferta (variante promocional)
 
 **Relación de aspecto:** 1:1
+
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: Afirmación principal, iconos y sello de oferta (variante promocional) — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png)
+
+**Ejemplo alternativo (v1):**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png" alt="Case 37: Afirmación principal, iconos y sello de oferta (variante promocional) — Ejemplo alternativo (v1)" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png)
 
 **Prompt:**
 

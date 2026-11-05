@@ -15,12 +15,20 @@
 
 以下の英語プロンプトを全文コピーし、別の作業用コピーで入力欄を埋めてください。
 
+> ユーザーから提供された参考用の作例です。画像内の文言、数値、レビュー、報道風の表現は創作例であり、確認済みの製品情報や広告運用の成果を示すものではありません。
+
 ---
 
 <a id="comparisons-transformations-case-7"></a>
 ### Case 7: 自社と他社の比較
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: 自社と他社の比較 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png)
 
 **Prompt:**
 
@@ -35,6 +43,12 @@ Use the attached images as brand reference. Create: a side-by-side divided verti
 
 **アスペクト比:** 9:16
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: ビフォーアフター（自然なUGC風） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference for product color ONLY. This should l
 ### Case 25: 色分けした自社・他社比較
 
 **アスペクト比:** 1:1
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: 色分けした自社・他社比較 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png)
 
 **Prompt:**
 
@@ -61,6 +81,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: 比較グリッド・比較表 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png)
+
 **Prompt:**
 
 ```
@@ -73,6 +99,12 @@ Use the attached images as brand reference. Match the exact product packaging pr
 ### Case 36: ホワイトボードのビフォーアフターと手持ち商品
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: ホワイトボードのビフォーアフターと手持ち商品 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png)
 
 **Prompt:**
 

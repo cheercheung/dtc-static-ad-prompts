@@ -16,12 +16,20 @@
 
 复制下方完整英文提示词，并在单独的工作副本中填写输入项。
 
+> 由用户提供的示意素材。图中的文案、数字、评价和媒体风格呈现均为创意示例，不代表已验证的产品事实或广告活动效果。
+
 ---
 
 <a id="messaging-offers-case-1"></a>
 ### Case 1: 大标题
 
 **画幅比例:** 3:4
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: 大标题 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png)
 
 **Prompt:**
 
@@ -36,6 +44,12 @@ Use the attached images as brand reference. Match the exact product colors, typo
 
 **画幅比例:** 9:16
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: 优惠与促销 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png)
+
 **Prompt:**
 
 ```
@@ -48,6 +62,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 21: 鲜明主张与反应式标题
 
 **画幅比例:** 1:1
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: 鲜明主张与反应式标题 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png)
 
 **Prompt:**
 
@@ -62,6 +82,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: 长篇品牌宣言与书信广告 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference. Match exact brand typography style a
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: 主视觉宣言与图标卖点栏 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png)
+
 **Prompt:**
 
 ```
@@ -87,6 +119,18 @@ Use the attached images as brand reference. Match exact brand colors, packaging,
 ### Case 37: 主视觉宣言、图标栏与优惠爆炸贴（促销变体）
 
 **画幅比例:** 1:1
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: 主视觉宣言、图标栏与优惠爆炸贴（促销变体） — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png)
+
+**备选示例（v1）:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png" alt="Case 37: 主视觉宣言、图标栏与优惠爆炸贴（促销变体） — 备选示例（v1）" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png)
 
 **Prompt:**
 

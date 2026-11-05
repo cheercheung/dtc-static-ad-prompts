@@ -52,3 +52,34 @@ The first edition is fixed at 40 prompts. A later expansion needs an explicit
 inventory and scope update, a decision about numbering and provenance, complete
 localization, and fresh content and rendering review. Do not bypass the fixed
 count by adding an unindexed category page.
+
+## Static example images and the shared banner
+
+`data/examples.json` declares the `owner-provided-r2-static-images` media policy
+and unchanged `fenced` prompt presentation. Its 40 ordered entries bind each
+canonical prompt ID, case number, and category to one main PNG. Case 37 also
+binds one alternate PNG. Every output records only its role, public URL, SHA256,
+width, height, and MIME type. The 41 original images are stored at the declared
+repository namespace on R2; local source paths and upload evidence stay outside
+the public repository.
+
+`data/examples-ui.json` contains seven actual translated interface strings for
+each of the eleven language editions. The original prompt data and original
+locale dictionaries stay unchanged. Each README has one 40-cell, two-column
+gallery at `static-examples`, with a full-image link and a matching localized
+prompt link per cell. Each case page displays all of that case's supplied outputs
+and links each preview to its own original image. Main and alternate labels
+come from the example interface dictionary.
+
+`assets/banner.png` is the shared repository banner. Every root README embeds
+it once. Its native pixel dimensions preserve 5:2 proportions with integer-pixel
+rounding; no per-language bitmap is generated. The banner's title is
+`DTC Static ad Prompts Template`.
+
+For a media update, retain immutable prompt bytes and stable case numbers.
+Verify the complete case/output mapping, original-byte hashes, declared image
+dimensions, public R2 readback, actual rendered preview/full-image links, and
+all localized prompt destinations. Run the portable build and validator, inspect
+desktop and narrow layouts, then obtain independent review and the repository's
+original pre-push and post-push publication gates. Local script success does
+not prove remote image bytes, translation fluency, or campaign performance.

@@ -15,12 +15,20 @@ Yan yana karşılaştırmalar, ızgaralar ve önce/sonra düzenleri.
 
 Aşağıdaki İngilizce istemin tamamını kopyalayın. Girdi alanlarını ayrı bir çalışma kopyasında doldurun.
 
+> Kullanıcının sağladığı açıklayıcı örnek görsellerdir. Görsellerdeki metinler, rakamlar, yorumlar ve haber tarzı sunumlar yaratıcı örneklerdir; doğrulanmış ürün bilgileri veya kampanya sonuçları değildir.
+
 ---
 
 <a id="comparisons-transformations-case-7"></a>
 ### Case 7: Biz ve Diğerleri
 
 **En boy oranı:** 3:4
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: Biz ve Diğerleri — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png)
 
 **Prompt:**
 
@@ -35,6 +43,12 @@ Use the attached images as brand reference. Create: a side-by-side divided verti
 
 **En boy oranı:** 9:16
 
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: Öncesi ve Sonrası (Platforma Özgü UGC) — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference for product color ONLY. This should l
 ### Case 25: Renklerle Ayrılmış Biz ve Diğerleri
 
 **En boy oranı:** 1:1
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: Renklerle Ayrılmış Biz ve Diğerleri — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png)
 
 **Prompt:**
 
@@ -61,6 +81,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **En boy oranı:** 1:1
 
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: Karşılaştırma Izgarası veya Tablosu — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png)
+
 **Prompt:**
 
 ```
@@ -73,6 +99,12 @@ Use the attached images as brand reference. Match the exact product packaging pr
 ### Case 36: Beyaz Tahtada Önce/Sonra ve Elde Tutulan Ürün
 
 **En boy oranı:** 3:4
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: Beyaz Tahtada Önce/Sonra ve Elde Tutulan Ürün — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png)
 
 **Prompt:**
 

@@ -20,12 +20,20 @@
 
 复制下方完整英文提示词，并在单独的工作副本中填写输入项。
 
+> 由用户提供的示意素材。图中的文案、数字、评价和媒体风格呈现均为创意示例，不代表已验证的产品事实或广告活动效果。
+
 ---
 
 <a id="testimonials-social-proof-case-3"></a>
 ### Case 3: 用户证言
 
 **画幅比例:** 9:16
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png" alt="Case 3: 用户证言 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png)
 
 **Prompt:**
 
@@ -40,6 +48,12 @@ Use the attached images as brand reference. Create: a testimonial ad set in [SET
 
 **画幅比例:** 3:4
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png" alt="Case 6: 社会认同 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png)
+
 **Prompt:**
 
 ```
@@ -52,6 +66,12 @@ Use the attached images as brand reference. Create: a social proof ad on [BACKGR
 ### Case 9: 负向营销（先抑后扬）
 
 **画幅比例:** 3:4
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png" alt="Case 9: 负向营销（先抑后扬） — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png)
 
 **Prompt:**
 
@@ -66,6 +86,12 @@ Use the attached images as brand reference. Create: Background is close-up of [P
 
 **画幅比例:** 1:1 or 3:4
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png" alt="Case 11: 引语式评价卡片 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png)
+
 **Prompt:**
 
 ```
@@ -78,6 +104,12 @@ Use the attached images as brand reference. Match the exact product colors and b
 ### Case 15: 社交评论截图与产品
 
 **画幅比例:** 1:1
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png" alt="Case 15: 社交评论截图与产品 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png)
 
 **Prompt:**
 
@@ -92,6 +124,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png" alt="Case 16: 好奇心缺口与悬念引语证言 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png)
+
 **Prompt:**
 
 ```
@@ -104,6 +142,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 17: 已验证评价卡片
 
 **画幅比例:** 1:1
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png" alt="Case 17: 已验证评价卡片 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png)
 
 **Prompt:**
 
@@ -118,6 +162,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png" alt="Case 19: 高亮与标注式用户证言 — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png)
+
 **Prompt:**
 
 ```
@@ -131,6 +181,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **画幅比例:** 1:1
 
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png" alt="Case 24: 产品与评论标注（模拟社会认同） — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png)
+
 **Prompt:**
 
 ```
@@ -143,6 +199,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 38: UGC 生活场景、产品与评价卡片（分栏）
 
 **画幅比例:** 3:4
+
+**示例图:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png" alt="Case 38: UGC 生活场景、产品与评价卡片（分栏） — 示例图" width="520"></a>
+
+[打开原尺寸图片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png)
 
 **Prompt:**
 

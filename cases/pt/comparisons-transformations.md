@@ -15,12 +15,20 @@ Comparações lado a lado, grades e composições de antes e depois.
 
 Copie o prompt completo em inglês abaixo. Preencha os campos em uma cópia de trabalho separada.
 
+> Imagens ilustrativas fornecidas pelo usuário. Os textos, números, avaliações e tratamentos de estilo editorial são recursos criativos de exemplo, não fatos verificados sobre o produto nem resultados de campanhas.
+
 ---
 
 <a id="comparisons-transformations-case-7"></a>
 ### Case 7: Nós versus os outros
 
 **Proporção da imagem:** 3:4
+
+**Imagem de exemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: Nós versus os outros — Imagem de exemplo" width="520"></a>
+
+[Abrir imagem em tamanho real](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png)
 
 **Prompt:**
 
@@ -35,6 +43,12 @@ Use the attached images as brand reference. Create: a side-by-side divided verti
 
 **Proporção da imagem:** 9:16
 
+**Imagem de exemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: Antes e depois (UGC nativo) — Imagem de exemplo" width="520"></a>
+
+[Abrir imagem em tamanho real](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference for product color ONLY. This should l
 ### Case 25: Nós versus os outros com divisão de cores
 
 **Proporção da imagem:** 1:1
+
+**Imagem de exemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: Nós versus os outros com divisão de cores — Imagem de exemplo" width="520"></a>
+
+[Abrir imagem em tamanho real](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png)
 
 **Prompt:**
 
@@ -61,6 +81,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **Proporção da imagem:** 1:1
 
+**Imagem de exemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: Grade ou tabela comparativa — Imagem de exemplo" width="520"></a>
+
+[Abrir imagem em tamanho real](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png)
+
 **Prompt:**
 
 ```
@@ -73,6 +99,12 @@ Use the attached images as brand reference. Match the exact product packaging pr
 ### Case 36: Antes e depois na lousa com produto na mão
 
 **Proporção da imagem:** 3:4
+
+**Imagem de exemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: Antes e depois na lousa com produto na mão — Imagem de exemplo" width="520"></a>
+
+[Abrir imagem em tamanho real](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png)
 
 **Prompt:**
 

@@ -20,12 +20,20 @@ Compositions avec témoignages, commentaires, cartes d’avis et preuve sociale.
 
 Copiez le prompt anglais complet ci-dessous. Renseignez ses champs dans une copie de travail séparée.
 
+> Images illustratives fournies par l’utilisateur. Les textes, chiffres, avis et présentations de style journalistique sont des créations d’exemple, et non des faits vérifiés sur le produit ou des résultats de campagne.
+
 ---
 
 <a id="testimonials-social-proof-case-3"></a>
 ### Case 3: Témoignages
 
 **Format d’image:** 9:16
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png" alt="Case 3: Témoignages — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png)
 
 **Prompt:**
 
@@ -40,6 +48,12 @@ Use the attached images as brand reference. Create: a testimonial ad set in [SET
 
 **Format d’image:** 3:4
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png" alt="Case 6: Preuve sociale — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png)
+
 **Prompt:**
 
 ```
@@ -52,6 +66,12 @@ Use the attached images as brand reference. Create: a social proof ad on [BACKGR
 ### Case 9: Marketing négatif à retournement positif
 
 **Format d’image:** 3:4
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png" alt="Case 9: Marketing négatif à retournement positif — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png)
 
 **Prompt:**
 
@@ -66,6 +86,12 @@ Use the attached images as brand reference. Create: Background is close-up of [P
 
 **Format d’image:** 1:1 or 3:4
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png" alt="Case 11: Carte d’avis avec citation mise en exergue — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png)
+
 **Prompt:**
 
 ```
@@ -78,6 +104,12 @@ Use the attached images as brand reference. Match the exact product colors and b
 ### Case 15: Capture de commentaire social et produit
 
 **Format d’image:** 1:1
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png" alt="Case 15: Capture de commentaire social et produit — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png)
 
 **Prompt:**
 
@@ -92,6 +124,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **Format d’image:** 1:1
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png" alt="Case 16: Curiosité et révélation différée dans une citation de témoignage — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png)
+
 **Prompt:**
 
 ```
@@ -104,6 +142,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 17: Carte d’avis vérifié
 
 **Format d’image:** 1:1
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png" alt="Case 17: Carte d’avis vérifié — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png)
 
 **Prompt:**
 
@@ -118,6 +162,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Format d’image:** 1:1
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png" alt="Case 19: Témoignage surligné et annoté — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png)
+
 **Prompt:**
 
 ```
@@ -131,6 +181,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Format d’image:** 1:1
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png" alt="Case 24: Produit et commentaire en évidence (preuve sociale simulée) — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png)
+
 **Prompt:**
 
 ```
@@ -143,6 +199,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 38: Scène du quotidien UGC, produit et carte d’avis en volets
 
 **Format d’image:** 3:4
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png" alt="Case 38: Scène du quotidien UGC, produit et carte d’avis en volets — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png)
 
 **Prompt:**
 

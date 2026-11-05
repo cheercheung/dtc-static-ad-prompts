@@ -142,8 +142,9 @@ permits 1:1 or 3:4; choose one before generating. Case 34 is 1:1: the values
 
 Use an image tool that accepts the required references and the chosen format.
 If it has an aspect-ratio setting, set it consistently with the working prompt.
-Generate one selected concept, review it, and repeat or revise as needed. This
-text edition does not include generated examples or model-effect comparisons.
+Generate one selected concept, review it, and repeat or revise as needed. The
+user-supplied example renders illustrate creative treatments; they do not
+establish model-effect comparisons or advertising performance.
 
 ## 8. Review the generated ad
 
@@ -155,3 +156,12 @@ have. Correct unsupported content in the working concept before using it.
 Keep your brief, filled prompt, reference set, and chosen output together in
 your own campaign workspace. Compare only observed campaign results when
 assessing performance; the existence of a template is not a result.
+
+## Example renders and the gallery
+
+The gallery links each of the 40 main example images to its matching prompt.
+Case 37 also includes a supplied alternate version, labeled v1, on its prompt
+page. Open an image to inspect the full-resolution original. These illustrative
+renders are separate from the unchanged template bodies. On-image copy, numbers,
+reviews, and media-style treatments do not establish verified product facts,
+customer experiences, media coverage, or campaign results.

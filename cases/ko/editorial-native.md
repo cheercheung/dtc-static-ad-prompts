@@ -17,12 +17,20 @@
 
 아래 영어 프롬프트 전체를 복사한 뒤 별도 작업용 사본에서 입력란을 채우세요.
 
+> 사용자가 제공한 참고용 예시 이미지입니다. 이미지 속 문구, 수치, 리뷰 및 보도 형식의 표현은 예시 광고 소재이며, 검증된 제품 사실이나 캠페인 성과를 의미하지 않습니다.
+
 ---
 
 <a id="editorial-native-case-10"></a>
 ### Case 10: 언론 보도·에디토리얼
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png" alt="Case 10: 언론 보도·에디토리얼 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png)
 
 **Prompt:**
 
@@ -37,6 +45,12 @@ Use the attached images as brand reference. Create: a press ad on off-white line
 
 **화면 비율:** 3:4
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png" alt="Case 20: 기사형 광고·에디토리얼 콘텐츠 카드 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png)
+
 **Prompt:**
 
 ```
@@ -49,6 +63,12 @@ Use the attached images as brand reference for tone ONLY. Do NOT use polished ad
 ### Case 29: UGC 사진과 화제의 게시물 오버레이
 
 **화면 비율:** 9:16
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png" alt="Case 29: UGC 사진과 화제의 게시물 오버레이 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png)
 
 **Prompt:**
 
@@ -63,6 +83,12 @@ Use the attached images as brand reference for product color ONLY. Do NOT use ad
 
 **화면 비율:** 9:16
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png" alt="Case 32: UGC 스토리 콜아웃·텍스트 말풍선 설명 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference for product color and packaging ONLY.
 ### Case 33: 언론 보도·뉴스 기사형 스크린샷
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png" alt="Case 33: 언론 보도·뉴스 기사형 스크린샷 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png)
 
 **Prompt:**
 
@@ -89,6 +121,12 @@ Use the attached images as brand reference. Create: a static ad designed to look
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png" alt="Case 34: 아이폰 메모·앱 형식 스크린샷 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png)
+
 **Prompt:**
 
 ```
@@ -101,6 +139,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 39: 호기심을 유발해 스크롤을 멈추는 훅
 
 **화면 비율:** 1:1
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png" alt="Case 39: 호기심을 유발해 스크롤을 멈추는 훅 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png)
 
 **Prompt:**
 

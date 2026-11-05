@@ -14,12 +14,20 @@ Aktionsszenen, Produktreihen, Sets, Geschmacksgeschichten und lockere Produktpr�
 
 Kopiere den vollständigen englischen Prompt unten. Ergänze die Eingaben in einer separaten Arbeitskopie.
 
+> Vom Nutzer bereitgestellte illustrative Bilder. Texte, Zahlen, Rezensionen und redaktionell wirkende Darstellungen sind kreative Beispiele und keine bestätigten Produktfakten oder Kampagnenergebnisse.
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: Alltagsaktion und aufgefächerte Produktfarben
 
 **Seitenverhältnis:** 1:1
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: Alltagsaktion und aufgefächerte Produktfarben — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: Set-Präsentation mit Vorteilsleiste — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: Geschmacksgeschichte: „Schmeckt wie …“ — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: Plattformtypischer, unperfekter Haftnotiz-Stil mit Produkt im Mittelpunkt
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: Plattformtypischer, unperfekter Haftnotiz-Stil mit Produkt im Mittelpunkt — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "locales": {
+    "en": {
+      "gallery_title": "Example Gallery",
+      "gallery_intro": "All 40 templates have a main example. Case 37 also includes an alternate version on its prompt page. Open an image at full size or follow its matching prompt.",
+      "example_label": "Example render",
+      "alternate_label": "Alternate example (v1)",
+      "prompt_link": "Read the matching prompt",
+      "full_image_link": "Open full-size image",
+      "disclaimer": "User-supplied illustrative renders. On-image copy, figures, reviews, and media-style treatments are example creative, not verified product facts or campaign results."
+    },
+    "es": {
+      "gallery_title": "Galería de ejemplos",
+      "gallery_intro": "Las 40 plantillas tienen un ejemplo principal. El Caso 37 también incluye una versión alternativa en su página de prompt. Abre una imagen a tamaño completo o consulta el prompt correspondiente.",
+      "example_label": "Imagen de ejemplo",
+      "alternate_label": "Ejemplo alternativo (v1)",
+      "prompt_link": "Leer el prompt correspondiente",
+      "full_image_link": "Abrir la imagen a tamaño completo",
+      "disclaimer": "Imágenes ilustrativas proporcionadas por el usuario. Los textos, las cifras, las reseñas y los tratamientos de estilo periodístico son recursos creativos de ejemplo, no hechos verificados sobre el producto ni resultados de campañas."
+    },
+    "pt": {
+      "gallery_title": "Galeria de exemplos",
+      "gallery_intro": "Os 40 modelos têm um exemplo principal. O Caso 37 também inclui uma versão alternativa na página do seu prompt. Abra uma imagem em tamanho real ou consulte o prompt correspondente.",
+      "example_label": "Imagem de exemplo",
+      "alternate_label": "Exemplo alternativo (v1)",
+      "prompt_link": "Ler o prompt correspondente",
+      "full_image_link": "Abrir imagem em tamanho real",
+      "disclaimer": "Imagens ilustrativas fornecidas pelo usuário. Os textos, números, avaliações e tratamentos de estilo editorial são recursos criativos de exemplo, não fatos verificados sobre o produto nem resultados de campanhas."
+    },
+    "ja": {
+      "gallery_title": "作例ギャラリー",
+      "gallery_intro": "40種類すべてのテンプレートにメイン作例があります。Case 37のプロンプトページには別バージョンも掲載しています。画像を原寸で開くか、対応するプロンプトをご覧ください。",
+      "example_label": "作例画像",
+      "alternate_label": "別バージョンの作例（v1）",
+      "prompt_link": "対応するプロンプトを読む",
+      "full_image_link": "原寸画像を開く",
+      "disclaimer": "ユーザーから提供された参考用の作例です。画像内の文言、数値、レビュー、報道風の表現は創作例であり、確認済みの製品情報や広告運用の成果を示すものではありません。"
+    },
+    "ko": {
+      "gallery_title": "예시 갤러리",
+      "gallery_intro": "40개 템플릿 모두에 기본 예시가 있습니다. Case 37의 프롬프트 페이지에는 대안 버전도 포함되어 있습니다. 이미지를 원본 크기로 열거나 해당 프롬프트를 확인하세요.",
+      "example_label": "예시 이미지",
+      "alternate_label": "대안 예시 (v1)",
+      "prompt_link": "해당 프롬프트 읽기",
+      "full_image_link": "원본 크기 이미지 열기",
+      "disclaimer": "사용자가 제공한 참고용 예시 이미지입니다. 이미지 속 문구, 수치, 리뷰 및 보도 형식의 표현은 예시 광고 소재이며, 검증된 제품 사실이나 캠페인 성과를 의미하지 않습니다."
+    },
+    "de": {
+      "gallery_title": "Beispielgalerie",
+      "gallery_intro": "Alle 40 Vorlagen haben ein Hauptbeispiel. Auf der Prompt-Seite von Fall 37 gibt es zusätzlich eine alternative Version. Öffne ein Bild in voller Größe oder lies den zugehörigen Prompt.",
+      "example_label": "Beispielbild",
+      "alternate_label": "Alternatives Beispiel (v1)",
+      "prompt_link": "Zugehörigen Prompt lesen",
+      "full_image_link": "Bild in voller Größe öffnen",
+      "disclaimer": "Vom Nutzer bereitgestellte illustrative Bilder. Texte, Zahlen, Rezensionen und redaktionell wirkende Darstellungen sind kreative Beispiele und keine bestätigten Produktfakten oder Kampagnenergebnisse."
+    },
+    "fr": {
+      "gallery_title": "Galerie d’exemples",
+      "gallery_intro": "Les 40 modèles disposent d’un exemple principal. La page du prompt du Cas 37 contient également une autre version. Ouvrez une image en taille réelle ou consultez le prompt correspondant.",
+      "example_label": "Image d’exemple",
+      "alternate_label": "Autre exemple (v1)",
+      "prompt_link": "Lire le prompt correspondant",
+      "full_image_link": "Ouvrir l’image en taille réelle",
+      "disclaimer": "Images illustratives fournies par l’utilisateur. Les textes, chiffres, avis et présentations de style journalistique sont des créations d’exemple, et non des faits vérifiés sur le produit ou des résultats de campagne."
+    },
+    "tr": {
+      "gallery_title": "Örnek Galerisi",
+      "gallery_intro": "40 şablonun tamamı için bir ana örnek vardır. Vaka 37’nin istem sayfasında alternatif bir sürüm de bulunur. Görseli tam boyutta açın veya ilgili istemi inceleyin.",
+      "example_label": "Örnek görsel",
+      "alternate_label": "Alternatif örnek (v1)",
+      "prompt_link": "İlgili istemi okuyun",
+      "full_image_link": "Tam boyutlu görseli açın",
+      "disclaimer": "Kullanıcının sağladığı açıklayıcı örnek görsellerdir. Görsellerdeki metinler, rakamlar, yorumlar ve haber tarzı sunumlar yaratıcı örneklerdir; doğrulanmış ürün bilgileri veya kampanya sonuçları değildir."
+    },
+    "zh-TW": {
+      "gallery_title": "範例圖庫",
+      "gallery_intro": "40 組範本皆有主要範例圖。Case 37 的提示詞頁另附一個替代版本。可開啟原尺寸圖片，或閱讀對應提示詞。",
+      "example_label": "範例圖",
+      "alternate_label": "替代範例（v1）",
+      "prompt_link": "閱讀對應提示詞",
+      "full_image_link": "開啟原尺寸圖片",
+      "disclaimer": "由使用者提供的示意範例圖。圖中的文案、數字、評價與媒體風格呈現皆屬創意範例，不代表已驗證的產品事實或廣告活動成效。"
+    },
+    "zh-CN": {
+      "gallery_title": "示例图库",
+      "gallery_intro": "40 组模板均有主示例图。Case 37 的提示词页面另有一个备选版本。可打开原尺寸图片，或阅读对应提示词。",
+      "example_label": "示例图",
+      "alternate_label": "备选示例（v1）",
+      "prompt_link": "阅读对应提示词",
+      "full_image_link": "打开原尺寸图片",
+      "disclaimer": "由用户提供的示意素材。图中的文案、数字、评价和媒体风格呈现均为创意示例，不代表已验证的产品事实或广告活动效果。"
+    },
+    "ru": {
+      "gallery_title": "Галерея примеров",
+      "gallery_intro": "Для всех 40 шаблонов есть основной пример. На странице промпта кейса 37 также приведён альтернативный вариант. Откройте изображение в полном размере или прочитайте соответствующий промпт.",
+      "example_label": "Пример изображения",
+      "alternate_label": "Альтернативный пример (v1)",
+      "prompt_link": "Прочитать соответствующий промпт",
+      "full_image_link": "Открыть изображение в полном размере",
+      "disclaimer": "Иллюстративные изображения предоставлены пользователем. Тексты, цифры, отзывы и стилизация под публикации СМИ являются творческими примерами, а не подтверждёнными фактами о продукте или результатами рекламных кампаний."
+    }
+  }
+}

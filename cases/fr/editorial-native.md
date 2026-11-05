@@ -17,12 +17,20 @@ Formats de presse, éditoriaux, stories, applications de notes et accroches de c
 
 Copiez le prompt anglais complet ci-dessous. Renseignez ses champs dans une copie de travail séparée.
 
+> Images illustratives fournies par l’utilisateur. Les textes, chiffres, avis et présentations de style journalistique sont des créations d’exemple, et non des faits vérifiés sur le produit ou des résultats de campagne.
+
 ---
 
 <a id="editorial-native-case-10"></a>
 ### Case 10: Presse et style éditorial
 
 **Format d’image:** 3:4
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png" alt="Case 10: Presse et style éditorial — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png)
 
 **Prompt:**
 
@@ -37,6 +45,12 @@ Use the attached images as brand reference. Create: a press ad on off-white line
 
 **Format d’image:** 3:4
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png" alt="Case 20: Carte de publireportage ou de contenu éditorial — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png)
+
 **Prompt:**
 
 ```
@@ -49,6 +63,12 @@ Use the attached images as brand reference for tone ONLY. Do NOT use polished ad
 ### Case 29: UGC avec publication virale superposée
 
 **Format d’image:** 9:16
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png" alt="Case 29: UGC avec publication virale superposée — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png)
 
 **Prompt:**
 
@@ -63,6 +83,12 @@ Use the attached images as brand reference for product color ONLY. Do NOT use ad
 
 **Format d’image:** 9:16
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png" alt="Case 32: Story UGC avec explications en bulles de texte — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference for product color and packaging ONLY.
 ### Case 33: Capture simulée de presse ou d’articles d’actualité
 
 **Format d’image:** 3:4
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png" alt="Case 33: Capture simulée de presse ou d’articles d’actualité — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png)
 
 **Prompt:**
 
@@ -89,6 +121,12 @@ Use the attached images as brand reference. Create: a static ad designed to look
 
 **Format d’image:** 1:1
 
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png" alt="Case 34: Capture simulée de Notes sur iPhone ou d’application — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png)
+
 **Prompt:**
 
 ```
@@ -101,6 +139,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 39: Curiosité et révélation différée pour arrêter le défilement
 
 **Format d’image:** 1:1
+
+**Image d’exemple:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png" alt="Case 39: Curiosité et révélation différée pour arrêter le défilement — Image d’exemple" width="520"></a>
+
+[Ouvrir l’image en taille réelle](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png)
 
 **Prompt:**
 

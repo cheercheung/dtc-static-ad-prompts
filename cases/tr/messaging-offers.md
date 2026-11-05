@@ -16,12 +16,20 @@ Başlık, teklif, manifesto ve güçlü ifade odaklı düzenler.
 
 Aşağıdaki İngilizce istemin tamamını kopyalayın. Girdi alanlarını ayrı bir çalışma kopyasında doldurun.
 
+> Kullanıcının sağladığı açıklayıcı örnek görsellerdir. Görsellerdeki metinler, rakamlar, yorumlar ve haber tarzı sunumlar yaratıcı örneklerdir; doğrulanmış ürün bilgileri veya kampanya sonuçları değildir.
+
 ---
 
 <a id="messaging-offers-case-1"></a>
 ### Case 1: Ana Başlık
 
 **En boy oranı:** 3:4
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: Ana Başlık — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png)
 
 **Prompt:**
 
@@ -36,6 +44,12 @@ Use the attached images as brand reference. Match the exact product colors, typo
 
 **En boy oranı:** 9:16
 
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: Teklif veya Promosyon — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png)
+
 **Prompt:**
 
 ```
@@ -48,6 +62,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 21: İddialı İfade veya Tepki Başlığı
 
 **En boy oranı:** 1:1
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: İddialı İfade veya Tepki Başlığı — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png)
 
 **Prompt:**
 
@@ -62,6 +82,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **En boy oranı:** 1:1
 
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: Uzun Manifesto veya Mektup Biçiminde Reklam — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference. Match exact brand typography style a
 
 **En boy oranı:** 1:1
 
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: Ana İfade ve Simgeli Fayda Şeridi — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png)
+
 **Prompt:**
 
 ```
@@ -87,6 +119,18 @@ Use the attached images as brand reference. Match exact brand colors, packaging,
 ### Case 37: Ana İfade, Simge Şeridi ve Yıldız Biçimli Teklif Rozeti (Promosyon Varyantı)
 
 **En boy oranı:** 1:1
+
+**Örnek görsel:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: Ana İfade, Simge Şeridi ve Yıldız Biçimli Teklif Rozeti (Promosyon Varyantı) — Örnek görsel" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png)
+
+**Alternatif örnek (v1):**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png" alt="Case 37: Ana İfade, Simge Şeridi ve Yıldız Biçimli Teklif Rozeti (Promosyon Varyantı) — Alternatif örnek (v1)" width="520"></a>
+
+[Tam boyutlu görseli açın](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png)
 
 **Prompt:**
 

@@ -18,12 +18,20 @@
 
 Скопируйте полный английский промпт ниже и заполните его поля в отдельной рабочей копии.
 
+> Иллюстративные изображения предоставлены пользователем. Тексты, цифры, отзывы и стилизация под публикации СМИ являются творческими примерами, а не подтверждёнными фактами о продукте или результатами рекламных кампаний.
+
 ---
 
 <a id="benefits-data-case-4"></a>
 ### Case 4: Выноски с характеристиками и преимуществами
 
 **Соотношение сторон:** 3:4
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: Выноски с характеристиками и преимуществами — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png)
 
 **Prompt:**
 
@@ -38,6 +46,12 @@ Use the attached images as brand reference. Create: an educational diagram-style
 
 **Соотношение сторон:** 3:4
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: Маркированный список — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png)
+
 **Prompt:**
 
 ```
@@ -50,6 +64,12 @@ Use the attached images as brand reference. Create: a benefit-list ad, split com
 ### Case 13: Радиальные выноски со статистикой (продукт в центре)
 
 **Соотношение сторон:** 1:1
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: Радиальные выноски со статистикой (продукт в центре) — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png)
 
 **Prompt:**
 
@@ -64,6 +84,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Соотношение сторон:** 1:1
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: Радиальные выноски со статистикой (предметная раскладка в жизненном контексте) — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png)
+
 **Prompt:**
 
 ```
@@ -76,6 +102,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 26: Статистическая выноска (сцена использования с акцентом на данные)
 
 **Соотношение сторон:** 3:4
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: Статистическая выноска (сцена использования с акцентом на данные) — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png)
 
 **Prompt:**
 
@@ -90,6 +122,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 
 **Соотношение сторон:** 1:1
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: Преимущества в виде чек-листа (продукт и информация в разных частях) — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png)
+
 **Prompt:**
 
 ```
@@ -103,6 +141,12 @@ Use the attached images as brand reference. Match the exact product design and b
 
 **Соотношение сторон:** 1:1
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: Стрелки-выноски с характеристиками / пояснения к продукту — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png)
+
 **Prompt:**
 
 ```
@@ -115,6 +159,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 35: Главный продукт и полоса статистики
 
 **Соотношение сторон:** 1:1
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: Главный продукт и полоса статистики — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png)
 
 **Prompt:**
 

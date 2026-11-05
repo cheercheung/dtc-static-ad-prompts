@@ -16,12 +16,20 @@ Headline, offer, manifesto, and statement-led layouts.
 
 Copy the complete English prompt below. Fill its inputs in a separate working copy.
 
+> User-supplied illustrative renders. On-image copy, figures, reviews, and media-style treatments are example creative, not verified product facts or campaign results.
+
 ---
 
 <a id="messaging-offers-case-1"></a>
 ### Case 1: Headline
 
 **Aspect ratio:** 3:4
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: Headline — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png)
 
 **Prompt:**
 
@@ -36,6 +44,12 @@ Use the attached images as brand reference. Match the exact product colors, typo
 
 **Aspect ratio:** 9:16
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: Offer/Promotion — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png)
+
 **Prompt:**
 
 ```
@@ -48,6 +62,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 21: Bold Statement / Reaction Headline
 
 **Aspect ratio:** 1:1
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: Bold Statement / Reaction Headline — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png)
 
 **Prompt:**
 
@@ -62,6 +82,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: Long-Form Manifesto / Letter Ad — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference. Match exact brand typography style a
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: Hero Statement + Icon Benefit Bar — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png)
+
 **Prompt:**
 
 ```
@@ -87,6 +119,18 @@ Use the attached images as brand reference. Match exact brand colors, packaging,
 ### Case 37: Hero Statement + Icon Bar + Offer Burst (Promo Variant)
 
 **Aspect ratio:** 1:1
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: Hero Statement + Icon Bar + Offer Burst (Promo Variant) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png)
+
+**Alternate example (v1):**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png" alt="Case 37: Hero Statement + Icon Bar + Offer Burst (Promo Variant) — Alternate example (v1)" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png)
 
 **Prompt:**
 

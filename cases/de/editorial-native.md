@@ -17,12 +17,20 @@ Presse-, Redaktions-, Story- und Notiz-App-Formate sowie Neugier-Aufhänger.
 
 Kopiere den vollständigen englischen Prompt unten. Ergänze die Eingaben in einer separaten Arbeitskopie.
 
+> Vom Nutzer bereitgestellte illustrative Bilder. Texte, Zahlen, Rezensionen und redaktionell wirkende Darstellungen sind kreative Beispiele und keine bestätigten Produktfakten oder Kampagnenergebnisse.
+
 ---
 
 <a id="editorial-native-case-10"></a>
 ### Case 10: Presse- und Redaktionsstil
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png" alt="Case 10: Presse- und Redaktionsstil — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png)
 
 **Prompt:**
 
@@ -37,6 +45,12 @@ Use the attached images as brand reference. Create: a press ad on off-white line
 
 **Seitenverhältnis:** 3:4
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png" alt="Case 20: Advertorial- oder Redaktionskarte — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png)
+
 **Prompt:**
 
 ```
@@ -49,6 +63,12 @@ Use the attached images as brand reference for tone ONLY. Do NOT use polished ad
 ### Case 29: UGC mit überlagertem viralem Beitrag
 
 **Seitenverhältnis:** 9:16
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png" alt="Case 29: UGC mit überlagertem viralem Beitrag — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png)
 
 **Prompt:**
 
@@ -63,6 +83,12 @@ Use the attached images as brand reference for product color ONLY. Do NOT use ad
 
 **Seitenverhältnis:** 9:16
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png" alt="Case 32: UGC-Story mit Erklärungen in Textblasen — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference for product color and packaging ONLY.
 ### Case 33: Simulierter Presse- oder Nachrichtenartikel-Screenshot
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png" alt="Case 33: Simulierter Presse- oder Nachrichtenartikel-Screenshot — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png)
 
 **Prompt:**
 
@@ -89,6 +121,12 @@ Use the attached images as brand reference. Create: a static ad designed to look
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png" alt="Case 34: Simulierter iPhone-Notizen- oder App-Screenshot — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png)
+
 **Prompt:**
 
 ```
@@ -101,6 +139,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 39: Neugierlücke mit Aufhänger zum Anhalten beim Scrollen
 
 **Seitenverhältnis:** 1:1
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png" alt="Case 39: Neugierlücke mit Aufhänger zum Anhalten beim Scrollen — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png)
 
 **Prompt:**
 

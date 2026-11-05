@@ -14,12 +14,20 @@
 
 複製下方完整英文提示詞，並在獨立的工作副本中填入輸入項。
 
+> 由使用者提供的示意範例圖。圖中的文案、數字、評價與媒體風格呈現皆屬創意範例，不代表已驗證的產品事實或廣告活動成效。
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: 生活動作情境與產品配色陣列
 
 **長寬比:** 1:1
+
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: 生活動作情境與產品配色陣列 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **長寬比:** 1:1
 
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: 套裝展示與賣點橫欄 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **長寬比:** 1:1
 
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: 風味故事與口味聯想 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: 原生粗獷便利貼風格（產品主視覺）
 
 **長寬比:** 3:4
+
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: 原生粗獷便利貼風格（產品主視覺） — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

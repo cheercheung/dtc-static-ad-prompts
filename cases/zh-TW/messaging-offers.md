@@ -16,12 +16,20 @@
 
 複製下方完整英文提示詞，並在獨立的工作副本中填入輸入項。
 
+> 由使用者提供的示意範例圖。圖中的文案、數字、評價與媒體風格呈現皆屬創意範例，不代表已驗證的產品事實或廣告活動成效。
+
 ---
 
 <a id="messaging-offers-case-1"></a>
 ### Case 1: 大標題
 
 **長寬比:** 3:4
+
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: 大標題 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png)
 
 **Prompt:**
 
@@ -36,6 +44,12 @@ Use the attached images as brand reference. Match the exact product colors, typo
 
 **長寬比:** 9:16
 
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: 優惠與促銷 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png)
+
 **Prompt:**
 
 ```
@@ -48,6 +62,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 21: 鮮明主張與反應式標題
 
 **長寬比:** 1:1
+
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: 鮮明主張與反應式標題 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png)
 
 **Prompt:**
 
@@ -62,6 +82,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **長寬比:** 1:1
 
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: 長篇品牌宣言與書信廣告 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png)
+
 **Prompt:**
 
 ```
@@ -75,6 +101,12 @@ Use the attached images as brand reference. Match exact brand typography style a
 
 **長寬比:** 1:1
 
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: 主視覺宣言與圖示賣點欄 — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png)
+
 **Prompt:**
 
 ```
@@ -87,6 +119,18 @@ Use the attached images as brand reference. Match exact brand colors, packaging,
 ### Case 37: 主視覺宣言、圖示欄與優惠爆炸貼（促銷變體）
 
 **長寬比:** 1:1
+
+**範例圖:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: 主視覺宣言、圖示欄與優惠爆炸貼（促銷變體） — 範例圖" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png)
+
+**替代範例（v1）:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png" alt="Case 37: 主視覺宣言、圖示欄與優惠爆炸貼（促銷變體） — 替代範例（v1）" width="520"></a>
+
+[開啟原尺寸圖片](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png)
 
 **Prompt:**
 

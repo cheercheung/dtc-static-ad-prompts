@@ -15,12 +15,20 @@ Direkte Gegenüberstellungen, Raster und Vorher-Nachher-Layouts.
 
 Kopiere den vollständigen englischen Prompt unten. Ergänze die Eingaben in einer separaten Arbeitskopie.
 
+> Vom Nutzer bereitgestellte illustrative Bilder. Texte, Zahlen, Rezensionen und redaktionell wirkende Darstellungen sind kreative Beispiele und keine bestätigten Produktfakten oder Kampagnenergebnisse.
+
 ---
 
 <a id="comparisons-transformations-case-7"></a>
 ### Case 7: Wir gegen die anderen
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: Wir gegen die anderen — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png)
 
 **Prompt:**
 
@@ -35,6 +43,12 @@ Use the attached images as brand reference. Create: a side-by-side divided verti
 
 **Seitenverhältnis:** 9:16
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: Vorher und nachher (plattformtypisches UGC) — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference for product color ONLY. This should l
 ### Case 25: Wir gegen die anderen mit Farbteilung
 
 **Seitenverhältnis:** 1:1
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: Wir gegen die anderen mit Farbteilung — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png)
 
 **Prompt:**
 
@@ -61,6 +81,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: Vergleichsraster oder Vergleichstabelle — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png)
+
 **Prompt:**
 
 ```
@@ -73,6 +99,12 @@ Use the attached images as brand reference. Match the exact product packaging pr
 ### Case 36: Vorher-Nachher-Tafel mit Produkt in der Hand
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: Vorher-Nachher-Tafel mit Produkt in der Hand — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png)
 
 **Prompt:**
 

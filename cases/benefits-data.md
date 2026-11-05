@@ -18,12 +18,20 @@ Benefit lists, annotations, statistics, and product-information layouts.
 
 Copy the complete English prompt below. Fill its inputs in a separate working copy.
 
+> User-supplied illustrative renders. On-image copy, figures, reviews, and media-style treatments are example creative, not verified product facts or campaign results.
+
 ---
 
 <a id="benefits-data-case-4"></a>
 ### Case 4: Features/Benefits Point-Out
 
 **Aspect ratio:** 3:4
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: Features/Benefits Point-Out — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png)
 
 **Prompt:**
 
@@ -38,6 +46,12 @@ Use the attached images as brand reference. Create: an educational diagram-style
 
 **Aspect ratio:** 3:4
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: Bullet-Points — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png)
+
 **Prompt:**
 
 ```
@@ -50,6 +64,12 @@ Use the attached images as brand reference. Create: a benefit-list ad, split com
 ### Case 13: Stat Surround / Callout Radial (Product Hero)
 
 **Aspect ratio:** 1:1
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: Stat Surround / Callout Radial (Product Hero) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png)
 
 **Prompt:**
 
@@ -64,6 +84,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: Stat Surround / Callout Radial (Lifestyle Flatlay) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png)
+
 **Prompt:**
 
 ```
@@ -76,6 +102,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 26: Stat Callout (Data-Driven Lifestyle)
 
 **Aspect ratio:** 3:4
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: Stat Callout (Data-Driven Lifestyle) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png)
 
 **Prompt:**
 
@@ -90,6 +122,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: Benefit Checklist Showcase (Split Product + Info) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png)
+
 **Prompt:**
 
 ```
@@ -103,6 +141,12 @@ Use the attached images as brand reference. Match the exact product design and b
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: Feature Arrow Callout / Product Annotation — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png)
+
 **Prompt:**
 
 ```
@@ -115,6 +159,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 35: Hero Product Showcase + Stat Bar
 
 **Aspect ratio:** 1:1
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: Hero Product Showcase + Stat Bar — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png)
 
 **Prompt:**
 

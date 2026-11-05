@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "media_policy": "owner-provided-r2-static-images",
+  "prompt_presentation": "fenced",
+  "examples": [
+    {
+      "prompt_id": "static-ad-01",
+      "case_number": 1,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png",
+          "sha256": "9844ecff18feda136d8f951b3d898277d7d9b1f03cb568bd69211b75e9bb7342",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-02",
+      "case_number": 2,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png",
+          "sha256": "9d840dcdbb9c479024347a59609b8df9b4d73e435aab2ae5b0fa88a512312413",
+          "width": 768,
+          "height": 1360,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-03",
+      "case_number": 3,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png",
+          "sha256": "bcd0b3e08b3c37a55236d62bd2edf44f591919bfc94a4c28c68770f440060ed1",
+          "width": 768,
+          "height": 1360,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-04",
+      "case_number": 4,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png",
+          "sha256": "9cdb45db5ad3600385bf6b000cd56ce16d3d8ca0407add4c9ab1ee138563e441",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-05",
+      "case_number": 5,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png",
+          "sha256": "f9fe0b9c6f3a5c1317db0ccd6d53ad73dc632122845d86b8db604c1cf093635d",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-06",
+      "case_number": 6,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png",
+          "sha256": "abd890665f7dd5d131b6e664544ec11c31f9791982f5e96b490ca6bbeb6e3f09",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-07",
+      "case_number": 7,
+      "category": "comparisons-transformations",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png",
+          "sha256": "925a4ddbb133108f5c88b084eceebdbb5cf192b268e08949280336f1eeddae37",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-08",
+      "case_number": 8,
+      "category": "comparisons-transformations",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png",
+          "sha256": "215378f9cd999fb3e0a420074478eca577b3dd3430cdf493ecfbbb503a5ad4cd",
+          "width": 768,
+          "height": 1360,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-09",
+      "case_number": 9,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png",
+          "sha256": "e8d83aeab1e093cebe460215631ab2d6b9506a6c5d7bcc4fbad2ac71fc7706c4",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-10",
+      "case_number": 10,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png",
+          "sha256": "396ad14669b86d59a57fa2b8d10863ff6df6771e216862de9f4589e209a58bea",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-11",
+      "case_number": 11,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png",
+          "sha256": "413a930b73b66c69cb0304e94e8487ed69faa82b7aaec39764176133dc9ea3b9",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-12",
+      "case_number": 12,
+      "category": "lifestyle-product",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png",
+          "sha256": "79ee52cd5ff138c2bab3b53d5df37ee590b76a0c599d19222d1018a0a12f5a69",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-13",
+      "case_number": 13,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png",
+          "sha256": "26bddd9826a62e6800719b062bdbbd0c8cddad197e5ca78a8593f8110a78dfde",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-14",
+      "case_number": 14,
+      "category": "lifestyle-product",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png",
+          "sha256": "061d67479730ab98ad92b3267c15dcc9b438258dafac4add0ffb77d299b74198",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-15",
+      "case_number": 15,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png",
+          "sha256": "1855f888ea8d45940b41c0e787283b9dc48e6fe33d100e022a851aa16098722a",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-16",
+      "case_number": 16,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png",
+          "sha256": "640d5b4b58de9f758697b930c50785ca4fb36a9c5747e2cf8f2452f8d8e10f3c",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-17",
+      "case_number": 17,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png",
+          "sha256": "d349cd7824e10c2675dce193ce12bd0638aaba61d543c713aefe81ab31df3e37",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-18",
+      "case_number": 18,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png",
+          "sha256": "bd33d240e203d0e0793bb80fa2828b2e64e087f0c005b4695e2a794e7d4111be",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-19",
+      "case_number": 19,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png",
+          "sha256": "c7931f188afd1bf2bec08f1d0e7cce5ef65bbc98c70a59c8a9c66b2c9134cdae",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-20",
+      "case_number": 20,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png",
+          "sha256": "b346b1e4a9d9638b283889e0d8b560468b07edfda2a825ee3b33fd6d85ae3a33",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-21",
+      "case_number": 21,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png",
+          "sha256": "6f66958724b10320fc77c6bea761e9db03643e5b489f64e70b42e5781cf15d8a",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-22",
+      "case_number": 22,
+      "category": "lifestyle-product",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png",
+          "sha256": "b733b2ba5eab0eb7cc6ce93e936664bf8bf91ddd4200b524f0611a697e01b42e",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-23",
+      "case_number": 23,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png",
+          "sha256": "9e6749327987bb39092fcc48657bd63fb48e5d912b876dbb8129b751397c7b07",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-24",
+      "case_number": 24,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png",
+          "sha256": "af4eed37b5bac2329e1109bf4c47e3e93cc5350646ad996972bb122148392c7f",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-25",
+      "case_number": 25,
+      "category": "comparisons-transformations",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png",
+          "sha256": "ee58d466acb317ac5f00906d53884c128e8d90a7c11027a5934dfdc2f9371f38",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-26",
+      "case_number": 26,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png",
+          "sha256": "d9432454b1497e02e58087073e28a86253ef122cf990cfd29900980f28c417a8",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-27",
+      "case_number": 27,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png",
+          "sha256": "6aa164ba2a58d1fc2c668d749c88fb0dead8ea30ea64e6ee2e4cf2d29538c933",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-28",
+      "case_number": 28,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png",
+          "sha256": "5468802355adc4b784cff95299399962eea72e45c559748bffed15ac8c9e6c94",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-29",
+      "case_number": 29,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png",
+          "sha256": "caa88677a0be0a1df7ef5291b6c269d6b5eae48bff5d05782e7140884bb810ab",
+          "width": 768,
+          "height": 1360,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-30",
+      "case_number": 30,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png",
+          "sha256": "2a9c3104ef3ff850f7643c231d0f4f80b22b76e515c398f7c81f87f25b65dbf8",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-31",
+      "case_number": 31,
+      "category": "comparisons-transformations",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png",
+          "sha256": "d3f0f6f0b763e44ffa0a3c4d7ef113d24e7c2ea5e4cce0e387f1e4da265e4d49",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-32",
+      "case_number": 32,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png",
+          "sha256": "33e4912dad3e2e2e08c6f44df99c01603c8cb3c37d2d3e1f43dc458710e72a03",
+          "width": 768,
+          "height": 1360,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-33",
+      "case_number": 33,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png",
+          "sha256": "ef3ead5e7eb8bd89d286775f26080e6011e51338a6f885f1fe345fce71536144",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-34",
+      "case_number": 34,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png",
+          "sha256": "17f1b293031a12b2f7b3afc0782719e00c55515443f69d6d3338353110cd3287",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-35",
+      "case_number": 35,
+      "category": "benefits-data",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png",
+          "sha256": "29d71bf7b7a4f62ff0afa30719011985ec1831475077d6bd9455e2376af0f4ec",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-36",
+      "case_number": 36,
+      "category": "comparisons-transformations",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png",
+          "sha256": "d662585b31a5679e8554bbb1f797b79dfb0093ffb54707048dcc4796fefbeca8",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-37",
+      "case_number": 37,
+      "category": "messaging-offers",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png",
+          "sha256": "83de547e310f230ce6a08c53292c6da33451fa9a3111205f83aa18934a588aa2",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        },
+        {
+          "role": "alternate",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-alternate-456451e17225.png",
+          "sha256": "456451e172257cb9f9963da66d565ba6bff53e0e3526c86da71d15bbb62727dd",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-38",
+      "case_number": 38,
+      "category": "testimonials-social-proof",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png",
+          "sha256": "84f4be2c2ec7fe0a8d7125f12b5eda929f5e8203c0947e4dffe68268ffea8915",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-39",
+      "case_number": 39,
+      "category": "editorial-native",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png",
+          "sha256": "9cf976ba9e8c5a6517da7dccdb63713ac68612b955cbd6879afe875d106dfbb5",
+          "width": 1024,
+          "height": 1024,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "prompt_id": "static-ad-40",
+      "case_number": 40,
+      "category": "lifestyle-product",
+      "outputs": [
+        {
+          "role": "main",
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png",
+          "sha256": "29def337060a0414765d523551b28a3e81c17442b6ec76d43bba9be44736d376",
+          "width": 880,
+          "height": 1184,
+          "mime_type": "image/png"
+        }
+      ]
+    }
+  ]
+}

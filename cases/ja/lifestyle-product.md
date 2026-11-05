@@ -14,12 +14,20 @@
 
 以下の英語プロンプトを全文コピーし、別の作業用コピーで入力欄を埋めてください。
 
+> ユーザーから提供された参考用の作例です。画像内の文言、数値、レビュー、報道風の表現は創作例であり、確認済みの製品情報や広告運用の成果を示すものではありません。
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: ライフスタイルの動作シーンと商品カラーバリエーション
 
 **アスペクト比:** 1:1
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: ライフスタイルの動作シーンと商品カラーバリエーション — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: セット商品の展示とメリットバー — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: 味のストーリー・「まるでこの味」 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: 自然でラフな付箋スタイル（商品が主役）
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: 自然でラフな付箋スタイル（商品が主役） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

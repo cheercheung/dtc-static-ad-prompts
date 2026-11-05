@@ -20,12 +20,20 @@
 
 아래 영어 프롬프트 전체를 복사한 뒤 별도 작업용 사본에서 입력란을 채우세요.
 
+> 사용자가 제공한 참고용 예시 이미지입니다. 이미지 속 문구, 수치, 리뷰 및 보도 형식의 표현은 예시 광고 소재이며, 검증된 제품 사실이나 캠페인 성과를 의미하지 않습니다.
+
 ---
 
 <a id="testimonials-social-proof-case-3"></a>
 ### Case 3: 고객 후기
 
 **화면 비율:** 9:16
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png" alt="Case 3: 고객 후기 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png)
 
 **Prompt:**
 
@@ -40,6 +48,12 @@ Use the attached images as brand reference. Create: a testimonial ad set in [SET
 
 **화면 비율:** 3:4
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png" alt="Case 6: 사회적 증거 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png)
+
 **Prompt:**
 
 ```
@@ -52,6 +66,12 @@ Use the attached images as brand reference. Create: a social proof ad on [BACKGR
 ### Case 9: 부정적인 듯한 마케팅(반전 호평)
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png" alt="Case 9: 부정적인 듯한 마케팅(반전 호평) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png)
 
 **Prompt:**
 
@@ -66,6 +86,12 @@ Use the attached images as brand reference. Create: Background is close-up of [P
 
 **화면 비율:** 1:1 or 3:4
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png" alt="Case 11: 인용 헤드라인 리뷰 카드 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png)
+
 **Prompt:**
 
 ```
@@ -78,6 +104,12 @@ Use the attached images as brand reference. Match the exact product colors and b
 ### Case 15: 소셜 댓글 스크린샷과 제품
 
 **화면 비율:** 1:1
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png" alt="Case 15: 소셜 댓글 스크린샷과 제품 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png)
 
 **Prompt:**
 
@@ -92,6 +124,12 @@ Use the attached images as brand reference. Match the exact product design and c
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png" alt="Case 16: 호기심을 유발하는 인용 후기 훅 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png)
+
 **Prompt:**
 
 ```
@@ -104,6 +142,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 17: 인증된 리뷰 카드
 
 **화면 비율:** 1:1
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png" alt="Case 17: 인증된 리뷰 카드 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png)
 
 **Prompt:**
 
@@ -118,6 +162,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png" alt="Case 19: 강조·주석이 있는 고객 후기 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png)
+
 **Prompt:**
 
 ```
@@ -131,6 +181,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png" alt="Case 24: 제품과 댓글 콜아웃(사회적 증거 형식) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png)
+
 **Prompt:**
 
 ```
@@ -143,6 +199,12 @@ Use the attached images as brand reference. Match the exact product design and p
 ### Case 38: UGC 사용 장면·제품·리뷰 카드(분할)
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png" alt="Case 38: UGC 사용 장면·제품·리뷰 카드(분할) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png)
 
 **Prompt:**
 

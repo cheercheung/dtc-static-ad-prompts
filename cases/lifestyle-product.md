@@ -14,12 +14,20 @@ Action scenes, product ranges, bundles, flavor stories, and casual product displ
 
 Copy the complete English prompt below. Fill its inputs in a separate working copy.
 
+> User-supplied illustrative renders. On-image copy, figures, reviews, and media-style treatments are example creative, not verified product facts or campaign results.
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: Lifestyle Action + Product Colorway Array
 
 **Aspect ratio:** 1:1
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: Lifestyle Action + Product Colorway Array — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: Bundle Showcase + Benefit Bar — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Aspect ratio:** 1:1
 
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: Flavor Story / &quot;Tastes Like&quot; — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: Native / Ugly Post-It Note Style (Product Hero)
 
 **Aspect ratio:** 3:4
+
+**Example render:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: Native / Ugly Post-It Note Style (Product Hero) — Example render" width="520"></a>
+
+[Open full-size image](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

@@ -18,12 +18,20 @@
 
 以下の英語プロンプトを全文コピーし、別の作業用コピーで入力欄を埋めてください。
 
+> ユーザーから提供された参考用の作例です。画像内の文言、数値、レビュー、報道風の表現は創作例であり、確認済みの製品情報や広告運用の成果を示すものではありません。
+
 ---
 
 <a id="benefits-data-case-4"></a>
 ### Case 4: 特徴・メリットの指示線表示
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: 特徴・メリットの指示線表示 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png)
 
 **Prompt:**
 
@@ -38,6 +46,12 @@ Use the attached images as brand reference. Create: an educational diagram-style
 
 **アスペクト比:** 3:4
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: 箇条書き — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png)
+
 **Prompt:**
 
 ```
@@ -50,6 +64,12 @@ Use the attached images as brand reference. Create: a benefit-list ad, split com
 ### Case 13: 統計値を放射状に配置するコールアウト（商品が主役）
 
 **アスペクト比:** 1:1
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: 統計値を放射状に配置するコールアウト（商品が主役） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png)
 
 **Prompt:**
 
@@ -64,6 +84,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: 統計値を放射状に配置するコールアウト（生活感のあるフラットレイ） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png)
+
 **Prompt:**
 
 ```
@@ -76,6 +102,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 26: 統計コールアウト（データで伝える使用シーン）
 
 **アスペクト比:** 3:4
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: 統計コールアウト（データで伝える使用シーン） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png)
 
 **Prompt:**
 
@@ -90,6 +122,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: メリットのチェックリスト展示（商品と情報の分割） — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png)
+
 **Prompt:**
 
 ```
@@ -103,6 +141,12 @@ Use the attached images as brand reference. Match the exact product design and b
 
 **アスペクト比:** 1:1
 
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: 特徴を示す矢印コールアウト・商品注釈 — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png)
+
 **Prompt:**
 
 ```
@@ -115,6 +159,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 35: 主役商品の展示と統計バー
 
 **アスペクト比:** 1:1
+
+**作例画像:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: 主役商品の展示と統計バー — 作例画像" width="520"></a>
+
+[原寸画像を開く](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png)
 
 **Prompt:**
 

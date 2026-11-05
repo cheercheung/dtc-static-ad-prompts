@@ -14,12 +14,20 @@ Escenas de acción, gamas de productos, lotes, relatos de sabor y presentaciones
 
 Copia el prompt completo en inglés que aparece abajo. Rellena sus campos en una copia de trabajo independiente.
 
+> Imágenes ilustrativas proporcionadas por el usuario. Los textos, las cifras, las reseñas y los tratamientos de estilo periodístico son recursos creativos de ejemplo, no hechos verificados sobre el producto ni resultados de campañas.
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: Acción cotidiana y abanico de colores del producto
 
 **Relación de aspecto:** 1:1
+
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: Acción cotidiana y abanico de colores del producto — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Relación de aspecto:** 1:1
 
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: Presentación de un lote y franja de beneficios — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Relación de aspecto:** 1:1
 
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: Relato de sabor: «Sabe a…» — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: Estilo nativo e imperfecto con nota adhesiva y producto protagonista
 
 **Relación de aspecto:** 3:4
+
+**Imagen de ejemplo:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: Estilo nativo e imperfecto con nota adhesiva y producto protagonista — Imagen de ejemplo" width="520"></a>
+
+[Abrir la imagen a tamaño completo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

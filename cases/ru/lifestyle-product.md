@@ -14,12 +14,20 @@
 
 Скопируйте полный английский промпт ниже и заполните его поля в отдельной рабочей копии.
 
+> Иллюстративные изображения предоставлены пользователем. Тексты, цифры, отзывы и стилизация под публикации СМИ являются творческими примерами, а не подтверждёнными фактами о продукте или результатами рекламных кампаний.
+
 ---
 
 <a id="lifestyle-product-case-12"></a>
 ### Case 12: Действие в повседневной сцене и веер цветовых вариантов продукта
 
 **Соотношение сторон:** 1:1
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: Действие в повседневной сцене и веер цветовых вариантов продукта — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png)
 
 **Prompt:**
 
@@ -34,6 +42,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Соотношение сторон:** 1:1
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: Показ набора и полоса преимуществ — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png)
+
 **Prompt:**
 
 ```
@@ -47,6 +61,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Соотношение сторон:** 1:1
 
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: История вкуса / «На вкус как» — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png)
+
 **Prompt:**
 
 ```
@@ -59,6 +79,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 40: Нативный / нарочито небрежный стиль стикера (продукт в центре)
 
 **Соотношение сторон:** 3:4
+
+**Пример изображения:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: Нативный / нарочито небрежный стиль стикера (продукт в центре) — Пример изображения" width="520"></a>
+
+[Открыть изображение в полном размере](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png)
 
 **Prompt:**
 

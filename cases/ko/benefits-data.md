@@ -18,12 +18,20 @@
 
 아래 영어 프롬프트 전체를 복사한 뒤 별도 작업용 사본에서 입력란을 채우세요.
 
+> 사용자가 제공한 참고용 예시 이미지입니다. 이미지 속 문구, 수치, 리뷰 및 보도 형식의 표현은 예시 광고 소재이며, 검증된 제품 사실이나 캠페인 성과를 의미하지 않습니다.
+
 ---
 
 <a id="benefits-data-case-4"></a>
 ### Case 4: 특징·이점 지시선 표시
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: 특징·이점 지시선 표시 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png)
 
 **Prompt:**
 
@@ -38,6 +46,12 @@ Use the attached images as brand reference. Create: an educational diagram-style
 
 **화면 비율:** 3:4
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: 글머리 기호 목록 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png)
+
 **Prompt:**
 
 ```
@@ -50,6 +64,12 @@ Use the attached images as brand reference. Create: a benefit-list ad, split com
 ### Case 13: 통계 수치 방사형 콜아웃(제품 중심)
 
 **화면 비율:** 1:1
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: 통계 수치 방사형 콜아웃(제품 중심) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png)
 
 **Prompt:**
 
@@ -64,6 +84,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: 통계 수치 방사형 콜아웃(라이프스타일 플랫레이) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png)
+
 **Prompt:**
 
 ```
@@ -76,6 +102,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 26: 통계 콜아웃(데이터 기반 사용 장면)
 
 **화면 비율:** 3:4
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: 통계 콜아웃(데이터 기반 사용 장면) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png)
 
 **Prompt:**
 
@@ -90,6 +122,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: 이점 체크리스트 전시(제품·정보 분할) — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png)
+
 **Prompt:**
 
 ```
@@ -103,6 +141,12 @@ Use the attached images as brand reference. Match the exact product design and b
 
 **화면 비율:** 1:1
 
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: 특징을 가리키는 화살표 콜아웃·제품 주석 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png)
+
 **Prompt:**
 
 ```
@@ -115,6 +159,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 35: 주력 제품 전시와 통계 바
 
 **화면 비율:** 1:1
+
+**예시 이미지:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: 주력 제품 전시와 통계 바 — 예시 이미지" width="520"></a>
+
+[원본 크기 이미지 열기](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png)
 
 **Prompt:**
 

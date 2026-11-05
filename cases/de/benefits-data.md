@@ -18,12 +18,20 @@ Layouts mit Vorteilslisten, Beschriftungen, Statistiken und Produktinformationen
 
 Kopiere den vollständigen englischen Prompt unten. Ergänze die Eingaben in einer separaten Arbeitskopie.
 
+> Vom Nutzer bereitgestellte illustrative Bilder. Texte, Zahlen, Rezensionen und redaktionell wirkende Darstellungen sind kreative Beispiele und keine bestätigten Produktfakten oder Kampagnenergebnisse.
+
 ---
 
 <a id="benefits-data-case-4"></a>
 ### Case 4: Hinweise auf Merkmale und Vorteile
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: Hinweise auf Merkmale und Vorteile — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png)
 
 **Prompt:**
 
@@ -38,6 +46,12 @@ Use the attached images as brand reference. Create: an educational diagram-style
 
 **Seitenverhältnis:** 3:4
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: Aufzählungspunkte — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png)
+
 **Prompt:**
 
 ```
@@ -50,6 +64,12 @@ Use the attached images as brand reference. Create: a benefit-list ad, split com
 ### Case 13: Statistiken rund um das Produkt im Mittelpunkt
 
 **Seitenverhältnis:** 1:1
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: Statistiken rund um das Produkt im Mittelpunkt — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png)
 
 **Prompt:**
 
@@ -64,6 +84,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: Radiale Statistiken in einer Alltagsszene aus der Vogelperspektive — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png)
+
 **Prompt:**
 
 ```
@@ -76,6 +102,12 @@ Use the attached images as brand reference. Match the exact product design, colo
 ### Case 26: Statistikhervorhebung in einer datenbasierten Alltagsszene
 
 **Seitenverhältnis:** 3:4
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: Statistikhervorhebung in einer datenbasierten Alltagsszene — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png)
 
 **Prompt:**
 
@@ -90,6 +122,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: Vorteilscheckliste mit getrennten Produkt- und Infobereichen — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png)
+
 **Prompt:**
 
 ```
@@ -103,6 +141,12 @@ Use the attached images as brand reference. Match the exact product design and b
 
 **Seitenverhältnis:** 1:1
 
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: Merkmalspfeile und Produktbeschriftung — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png)
+
 **Prompt:**
 
 ```
@@ -115,6 +159,12 @@ Use the attached images as brand reference. Match exact brand colors and typogra
 ### Case 35: Produkt im Mittelpunkt mit Statistikleiste
 
 **Seitenverhältnis:** 1:1
+
+**Beispielbild:**
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: Produkt im Mittelpunkt mit Statistikleiste — Beispielbild" width="520"></a>
+
+[Bild in voller Größe öffnen](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png)
 
 **Prompt:**
 

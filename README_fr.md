@@ -1,5 +1,7 @@
 <div align="center">
 
+![DTC Static ad Prompts Template](assets/banner.png)
+
 # Prompts pour publicités statiques DTC
 
 40 modèles complets pour la publicité statique en vente directe au consommateur.
@@ -52,6 +54,7 @@ Les numéros des cas restent identiques dans toutes les catégories et versions 
 - [Sommaire](#menu)
 - [Ressources associées](#related-resources)
 - [Remerciements](#acknowledge)
+- [Galerie d’exemples](#static-examples)
 
 **[Messages et offres](cases/fr/messaging-offers.md) · 6 modèles**
 
@@ -122,6 +125,257 @@ Scènes d’action, gammes de produits, lots, récits de saveur et présentation
 - [Case 14: Présentation d’un lot et bandeau de bénéfices](cases/fr/lifestyle-product.md#lifestyle-product-case-14)
 - [Case 22: Récit de saveur : « Un goût de… »](cases/fr/lifestyle-product.md#lifestyle-product-case-22)
 - [Case 40: Style natif et imparfait avec note adhésive et produit vedette](cases/fr/lifestyle-product.md#lifestyle-product-case-40)
+
+<a id="static-examples"></a>
+## 🖼️ Galerie d’exemples
+
+Les 40 modèles disposent d’un exemple principal. La page du prompt du Cas 37 contient également une autre version. Ouvrez une image en taille réelle ou consultez le prompt correspondant.
+
+> Images illustratives fournies par l’utilisateur. Les textes, chiffres, avis et présentations de style journalistique sont des créations d’exemple, et non des faits vérifiés sur le produit ou des résultats de campagne.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case01-main-9844ecff18fe.png" alt="Case 1: Titre principal" width="400"></a>
+<p><strong>Case 1: Titre principal</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-1">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case02-main-9d840dcdbb9c.png" alt="Case 2: Offre ou promotion" width="400"></a>
+<p><strong>Case 2: Offre ou promotion</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-2">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case03-main-bcd0b3e08b3c.png" alt="Case 3: Témoignages" width="400"></a>
+<p><strong>Case 3: Témoignages</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-3">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case04-main-9cdb45db5ad3.png" alt="Case 4: Mise en évidence des caractéristiques et bénéfices" width="400"></a>
+<p><strong>Case 4: Mise en évidence des caractéristiques et bénéfices</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-4">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case05-main-f9fe0b9c6f3a.png" alt="Case 5: Liste à puces" width="400"></a>
+<p><strong>Case 5: Liste à puces</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-5">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case06-main-abd890665f7d.png" alt="Case 6: Preuve sociale" width="400"></a>
+<p><strong>Case 6: Preuve sociale</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-6">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case07-main-925a4ddbb133.png" alt="Case 7: Nous face aux autres" width="400"></a>
+<p><strong>Case 7: Nous face aux autres</strong></p>
+<p><a href="cases/fr/comparisons-transformations.md#comparisons-transformations-case-7">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case08-main-215378f9cd99.png" alt="Case 8: Avant et après (UGC natif)" width="400"></a>
+<p><strong>Case 8: Avant et après (UGC natif)</strong></p>
+<p><a href="cases/fr/comparisons-transformations.md#comparisons-transformations-case-8">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case09-main-e8d83aeab1e0.png" alt="Case 9: Marketing négatif à retournement positif" width="400"></a>
+<p><strong>Case 9: Marketing négatif à retournement positif</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-9">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case10-main-396ad14669b8.png" alt="Case 10: Presse et style éditorial" width="400"></a>
+<p><strong>Case 10: Presse et style éditorial</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-10">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case11-main-413a930b73b6.png" alt="Case 11: Carte d’avis avec citation mise en exergue" width="400"></a>
+<p><strong>Case 11: Carte d’avis avec citation mise en exergue</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-11">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case12-main-79ee52cd5ff1.png" alt="Case 12: Action du quotidien et éventail de coloris du produit" width="400"></a>
+<p><strong>Case 12: Action du quotidien et éventail de coloris du produit</strong></p>
+<p><a href="cases/fr/lifestyle-product.md#lifestyle-product-case-12">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case13-main-26bddd9826a6.png" alt="Case 13: Statistiques en rayons autour du produit vedette" width="400"></a>
+<p><strong>Case 13: Statistiques en rayons autour du produit vedette</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-13">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case14-main-061d67479730.png" alt="Case 14: Présentation d’un lot et bandeau de bénéfices" width="400"></a>
+<p><strong>Case 14: Présentation d’un lot et bandeau de bénéfices</strong></p>
+<p><a href="cases/fr/lifestyle-product.md#lifestyle-product-case-14">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case15-main-1855f888ea8d.png" alt="Case 15: Capture de commentaire social et produit" width="400"></a>
+<p><strong>Case 15: Capture de commentaire social et produit</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-15">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case16-main-640d5b4b58de.png" alt="Case 16: Curiosité et révélation différée dans une citation de témoignage" width="400"></a>
+<p><strong>Case 16: Curiosité et révélation différée dans une citation de témoignage</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-16">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case17-main-d349cd7824e1.png" alt="Case 17: Carte d’avis vérifié" width="400"></a>
+<p><strong>Case 17: Carte d’avis vérifié</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-17">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case18-main-bd33d240e203.png" alt="Case 18: Statistiques en rayons sur une scène du quotidien vue de dessus" width="400"></a>
+<p><strong>Case 18: Statistiques en rayons sur une scène du quotidien vue de dessus</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-18">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case19-main-c7931f188afd.png" alt="Case 19: Témoignage surligné et annoté" width="400"></a>
+<p><strong>Case 19: Témoignage surligné et annoté</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-19">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case20-main-b346b1e4a9d9.png" alt="Case 20: Carte de publireportage ou de contenu éditorial" width="400"></a>
+<p><strong>Case 20: Carte de publireportage ou de contenu éditorial</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-20">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case21-main-6f66958724b1.png" alt="Case 21: Affirmation forte ou titre de réaction" width="400"></a>
+<p><strong>Case 21: Affirmation forte ou titre de réaction</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-21">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case22-main-b733b2ba5eab.png" alt="Case 22: Récit de saveur : « Un goût de… »" width="400"></a>
+<p><strong>Case 22: Récit de saveur : « Un goût de… »</strong></p>
+<p><a href="cases/fr/lifestyle-product.md#lifestyle-product-case-22">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case23-main-9e6749327987.png" alt="Case 23: Manifeste long ou publicité sous forme de lettre" width="400"></a>
+<p><strong>Case 23: Manifeste long ou publicité sous forme de lettre</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-23">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case24-main-af4eed37b5ba.png" alt="Case 24: Produit et commentaire en évidence (preuve sociale simulée)" width="400"></a>
+<p><strong>Case 24: Produit et commentaire en évidence (preuve sociale simulée)</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-24">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case25-main-ee58d466acb3.png" alt="Case 25: Nous face aux autres avec séparation des couleurs" width="400"></a>
+<p><strong>Case 25: Nous face aux autres avec séparation des couleurs</strong></p>
+<p><a href="cases/fr/comparisons-transformations.md#comparisons-transformations-case-25">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case26-main-d9432454b149.png" alt="Case 26: Statistique mise en avant sur une scène du quotidien" width="400"></a>
+<p><strong>Case 26: Statistique mise en avant sur une scène du quotidien</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-26">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case27-main-6aa164ba2a58.png" alt="Case 27: Liste de bénéfices avec produit et informations en volets" width="400"></a>
+<p><strong>Case 27: Liste de bénéfices avec produit et informations en volets</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-27">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case28-main-5468802355ad.png" alt="Case 28: Flèches de caractéristiques et annotations du produit" width="400"></a>
+<p><strong>Case 28: Flèches de caractéristiques et annotations du produit</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-28">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case29-main-caa88677a0be.png" alt="Case 29: UGC avec publication virale superposée" width="400"></a>
+<p><strong>Case 29: UGC avec publication virale superposée</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-29">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case30-main-2a9c3104ef3f.png" alt="Case 30: Affirmation centrale et bandeau de bénéfices à icônes" width="400"></a>
+<p><strong>Case 30: Affirmation centrale et bandeau de bénéfices à icônes</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-30">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case31-main-d3f0f6f0b763.png" alt="Case 31: Grille ou tableau comparatif" width="400"></a>
+<p><strong>Case 31: Grille ou tableau comparatif</strong></p>
+<p><a href="cases/fr/comparisons-transformations.md#comparisons-transformations-case-31">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case32-main-33e4912dad3e.png" alt="Case 32: Story UGC avec explications en bulles de texte" width="400"></a>
+<p><strong>Case 32: Story UGC avec explications en bulles de texte</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-32">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case33-main-ef3ead5e7eb8.png" alt="Case 33: Capture simulée de presse ou d’articles d’actualité" width="400"></a>
+<p><strong>Case 33: Capture simulée de presse ou d’articles d’actualité</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-33">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case34-main-17f1b293031a.png" alt="Case 34: Capture simulée de Notes sur iPhone ou d’application" width="400"></a>
+<p><strong>Case 34: Capture simulée de Notes sur iPhone ou d’application</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-34">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case35-main-29d71bf7b7a4.png" alt="Case 35: Produit vedette et bandeau de statistiques" width="400"></a>
+<p><strong>Case 35: Produit vedette et bandeau de statistiques</strong></p>
+<p><a href="cases/fr/benefits-data.md#benefits-data-case-35">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case36-main-d662585b31a5.png" alt="Case 36: Tableau blanc avant/après et produit tenu en main" width="400"></a>
+<p><strong>Case 36: Tableau blanc avant/après et produit tenu en main</strong></p>
+<p><a href="cases/fr/comparisons-transformations.md#comparisons-transformations-case-36">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case37-main-83de547e310f.png" alt="Case 37: Affirmation centrale, icônes et macaron d’offre (variante promotionnelle)" width="400"></a>
+<p><strong>Case 37: Affirmation centrale, icônes et macaron d’offre (variante promotionnelle)</strong></p>
+<p><a href="cases/fr/messaging-offers.md#messaging-offers-case-37">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case38-main-84f4be2c2ec7.png" alt="Case 38: Scène du quotidien UGC, produit et carte d’avis en volets" width="400"></a>
+<p><strong>Case 38: Scène du quotidien UGC, produit et carte d’avis en volets</strong></p>
+<p><a href="cases/fr/testimonials-social-proof.md#testimonials-social-proof-case-38">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case39-main-9cf976ba9e8c.png" alt="Case 39: Curiosité et révélation différée pour arrêter le défilement" width="400"></a>
+<p><strong>Case 39: Curiosité et révélation différée pour arrêter le défilement</strong></p>
+<p><a href="cases/fr/editorial-native.md#editorial-native-case-39">Lire le prompt correspondant</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/dtc-static-ad-prompts/assets/examples/case40-main-29def337060a.png" alt="Case 40: Style natif et imparfait avec note adhésive et produit vedette" width="400"></a>
+<p><strong>Case 40: Style natif et imparfait avec note adhésive et produit vedette</strong></p>
+<p><a href="cases/fr/lifestyle-product.md#lifestyle-product-case-40">Lire le prompt correspondant</a></p>
+</td>
+</tr>
+</table>
+
 
 <a id="related-resources"></a>
 ## 🔎 Ressources associées

@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 import re
 from urllib.parse import quote
+from html import escape
 
 ROOT = Path(__file__).resolve().parents[1]
 LOCALES = ('en', 'es', 'pt', 'ja', 'ko', 'de', 'fr', 'tr', 'zh-TW', 'zh-CN', 'ru')
@@ -42,9 +43,27 @@ def badges() -> str:
         result.append(f'[![{name}](https://img.shields.io/badge/{label}-blue)]({readme_name(code)})')
     return '\n'.join(result)
 
-def render_readme(prompts: list, categories: list, ui: dict, locale: str) -> str:
+def main_output(example: dict) -> dict:
+    return next(output for output in example['outputs'] if output['role'] == 'main')
+
+def render_gallery(prompts: list, examples: list, ui: dict, media_ui: dict, locale: str) -> str:
+    cells=[]
+    for prompt, example in zip(prompts, examples):
+        output=main_output(example)
+        title=f'Case {prompt["number"]}: {ui["titles"][prompt["id"]]}'
+        destination=category_path(prompt['category'],locale)+'#'+anchor(prompt)
+        cells.append('\n'.join([
+            '<td width="50%" valign="top">',
+            f'<a href="{escape(output["url"],quote=True)}"><img src="{escape(output["url"],quote=True)}" alt="{escape(title,quote=True)}" width="400"></a>',
+            f'<p><strong>{escape(title)}</strong></p>',
+            f'<p><a href="{escape(destination,quote=True)}">{escape(media_ui["prompt_link"])}</a></p>',
+            '</td>']))
+    rows=['<tr>\n'+'\n'.join(cells[i:i+2])+'\n</tr>' for i in range(0,len(cells),2)]
+    return '\n'.join(['<a id="static-examples"></a>',f'## 🖼️ {media_ui["gallery_title"]}','',media_ui['gallery_intro'],'',f'> {media_ui["disclaimer"]}','','<table>',*rows,'</table>',''])
+
+def render_readme(prompts: list, categories: list, ui: dict, locale: str, examples: list, media_ui: dict) -> str:
     usage_path = 'docs/usage_zh-CN.md' if locale == 'zh-CN' else 'docs/usage.md'
-    parts = ['<div align="center">', '', f'# {ui["name"]}', '', ui['tagline'], '', badges(), '', '</div>', '']
+    parts = ['<div align="center">', '', '![DTC Static ad Prompts Template](assets/banner.png)', '', f'# {ui["name"]}', '', ui['tagline'], '', badges(), '', '</div>', '']
     def section(key: str, emoji: str):
         parts.extend([f'<a id="{key}"></a>', f'## {emoji} {ui["sections"][key]}', ''])
     section('introduction', '📚')
@@ -57,6 +76,7 @@ def render_readme(prompts: list, categories: list, ui: dict, locale: str) -> str
     section('menu', '📑')
     parts.extend([ui['menu_intro'], ''])
     parts.extend(f'- [{ui["sections"][key]}](#{key})' for key in SECTIONS)
+    parts.append(f'- [{media_ui["gallery_title"]}](#static-examples)')
     parts.append('')
     for category in categories:
         rel = category_path(category, locale)
@@ -64,6 +84,7 @@ def render_readme(prompts: list, categories: list, ui: dict, locale: str) -> str
         parts.extend([f'**[{ui["categories"][category]}]({rel}) · {len(selected)} {ui["labels"]["templates"]}**', '', ui['category_descriptions'][category], ''])
         parts.extend(f'- [Case {p["number"]}: {ui["titles"][p["id"]]}]({rel}#{anchor(p)})' for p in selected)
         parts.append('')
+    parts.extend([render_gallery(prompts,examples,ui,media_ui,locale),''])
     section('related-resources', '🔎')
     for key, path in [('usage', usage_path), ('maintenance', 'docs/maintenance.md'), ('data', 'data/prompts.json'), ('contributing', 'CONTRIBUTING.md')]:
         parts.append(f'- [{ui["resources"][key]}]({path})')
@@ -72,14 +93,21 @@ def render_readme(prompts: list, categories: list, ui: dict, locale: str) -> str
     parts.extend([ui['acknowledge'], ''])
     return '\n'.join(parts)
 
-def render_category(prompts: list, category: str, ui: dict, locale: str) -> str:
+def render_category(prompts: list, category: str, ui: dict, locale: str, examples: list, media_ui: dict) -> str:
     selected = [p for p in prompts if p['category'] == category]
     back = '../README.md' if locale == 'en' else f'../../README_{locale}.md'
     parts = [f'# {ui["categories"][category]}', '', f'[{ui["labels"]["return"]}]({back})', '', ui['category_descriptions'][category], '', '<a id="category-menu"></a>', f'## 📑 {ui["labels"]["category_menu"]}', '']
     parts.extend(f'- [Case {p["number"]}: {ui["titles"][p["id"]]}](#{anchor(p)})' for p in selected)
-    parts.extend(['', ui['labels']['prompt_note'], '', '---', ''])
+    parts.extend(['', ui['labels']['prompt_note'], '', f'> {media_ui["disclaimer"]}', '', '---', ''])
+    lookup={example['prompt_id']:example for example in examples}
     for p in selected:
-        parts.extend([f'<a id="{anchor(p)}"></a>', f'### Case {p["number"]}: {ui["titles"][p["id"]]}', '', f'**{ui["labels"]["ratio"]}:** {aspect_ratio(p["prompt"])}', '', '**Prompt:**', '', prompt_fence(p['prompt']), '', '---', ''])
+        title=f'Case {p["number"]}: {ui["titles"][p["id"]]}'
+        parts.extend([f'<a id="{anchor(p)}"></a>', f'### {title}', '', f'**{ui["labels"]["ratio"]}:** {aspect_ratio(p["prompt"])}', ''])
+        for output in lookup[p['id']]['outputs']:
+            label=media_ui['example_label'] if output['role']=='main' else media_ui['alternate_label']
+            alt=f'{title} — {label}'
+            parts.extend([f'**{label}:**','',f'<a href="{escape(output["url"],quote=True)}"><img src="{escape(output["url"],quote=True)}" alt="{escape(alt,quote=True)}" width="520"></a>','',f'[{media_ui["full_image_link"]}]({output["url"]})',''])
+        parts.extend(['**Prompt:**', '', prompt_fence(p['prompt']), '', '---', ''])
     parts.extend([f'[{ui["labels"]["return"]}]({back})', ''])
     return '\n'.join(parts)
 
@@ -87,15 +115,17 @@ def generated_files(root: Path = ROOT) -> dict[str, str]:
     payload = read_json(root/'data/prompts.json')
     layout = read_json(root/'data/content-layout.json')
     prompts = payload['prompts']; categories = layout['categories']
+    examples=read_json(root/'data/examples.json')['examples']
+    examples_ui=read_json(root/'data/examples-ui.json')['locales']
     files = {}
     for locale in LOCALES:
         ui_path = root/'data/locales'/f'{locale}.json'
         if not ui_path.is_file():
             continue
         ui = read_json(ui_path)
-        files[readme_name(locale)] = render_readme(prompts, categories, ui, locale)
+        files[readme_name(locale)] = render_readme(prompts, categories, ui, locale, examples, examples_ui[locale])
         for category in categories:
-            files[category_path(category, locale)] = render_category(prompts, category, ui, locale)
+            files[category_path(category, locale)] = render_category(prompts, category, ui, locale, examples, examples_ui[locale])
     return files
 
 def main() -> int:
