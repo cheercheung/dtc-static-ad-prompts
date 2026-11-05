@@ -1,0 +1,10 @@
+# Local operating-system and Python artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+# Keep campaign details and credentials outside this library
+.env
+.env.*
+brands/
+working-copies/

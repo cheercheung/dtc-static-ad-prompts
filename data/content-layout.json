@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "layout": "split-category",
+  "categories": [
+    "messaging-offers",
+    "testimonials-social-proof",
+    "benefits-data",
+    "comparisons-transformations",
+    "editorial-native",
+    "lifestyle-product"
+  ]
+}

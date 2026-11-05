@@ -1,0 +1,23 @@
+name: Translation issue
+description: Report an inaccurate or unclear translated title or interface label.
+title: "[Translation] "
+body:
+  - type: input
+    id: locale
+    attributes:
+      label: Language edition and file
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: Case number or interface field
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Current wording, proposed wording, and reason
+      description: English prompt bodies are intentionally identical in every language edition.
+    validations:
+      required: true

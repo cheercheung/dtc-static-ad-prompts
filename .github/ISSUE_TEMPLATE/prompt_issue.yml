@@ -1,0 +1,23 @@
+name: Prompt or navigation issue
+description: Report a missing prompt segment, incorrect route, or usage explanation.
+title: "[Prompt] "
+body:
+  - type: input
+    id: case
+    attributes:
+      label: Case number and affected file
+      description: Include a case number from 1 to 40 and the language edition.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Quote only the relevant text and explain the expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction and verification
+      description: Keep private brand, customer, and campaign information out of this report.
